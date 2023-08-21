@@ -1,0 +1,25 @@
+[0.352s] Invoking command in '/home/woot/ros2_ws/src/py_pubsub': PYTHONPATH=/home/woot/ros2_ws/build/py_pubsub/prefix_override:/home/woot/ros2_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/woot/ros2_ws/build/py_pubsub/build install --record /home/woot/ros2_ws/build/py_pubsub/install.log --single-version-externally-managed
+[0.478s] running egg_info
+[0.479s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.479s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.479s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.479s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.479s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.480s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.480s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.481s] running build
+[0.481s] running build_py
+[0.481s] copying py_pubsub/video_sub.py -> /home/woot/ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[0.481s] running install
+[0.481s] running install_lib
+[0.482s] copying /home/woot/ros2_ws/build/py_pubsub/build/lib/py_pubsub/video_sub.py -> /home/woot/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.482s] byte-compiling /home/woot/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/video_sub.py to video_sub.cpython-310.pyc
+[0.482s] running install_data
+[0.483s] running install_egg_info
+[0.484s] removing '/home/woot/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.484s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/woot/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[0.484s] running install_scripts
+[0.497s] Installing listener script to /home/woot/ros2_ws/install/py_pubsub/lib/py_pubsub
+[0.498s] Installing talker script to /home/woot/ros2_ws/install/py_pubsub/lib/py_pubsub
+[0.498s] writing list of installed files to '/home/woot/ros2_ws/build/py_pubsub/install.log'
+[0.515s] Invoked command in '/home/woot/ros2_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/woot/ros2_ws/build/py_pubsub/prefix_override:/home/woot/ros2_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/woot/ros2_ws/build/py_pubsub/build install --record /home/woot/ros2_ws/build/py_pubsub/install.log --single-version-externally-managed

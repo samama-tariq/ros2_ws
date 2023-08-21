@@ -1,0 +1,4 @@
+[console_scripts]
+listener = py_pubsub.video_sub:main
+talker = py_pubsub.camera_pub:main
+
